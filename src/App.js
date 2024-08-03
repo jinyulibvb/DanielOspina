@@ -8,7 +8,6 @@ import window from './assets/window.jpeg'
 import picnic from './assets/picnic.jpeg'
 import purple from './assets/purple.jpeg'
 
-
 const images = [bed, nude, picnic, purple, black, window]
 
 const App = () => {
@@ -18,25 +17,28 @@ const App = () => {
     const length = images.length - 1
 
     setCurrentImage((currentImage) => {
-       return currentImage < length ? currentImage + 1 : 0
-      })
+      return currentImage < length ? currentImage + 1 : 0
+    })
   }
 
   console.log(currentImage)
   return (
     <section>
       <header>
-        <h1>Daniel <br /> Ospina</h1>
-        <h2> 
-          Model & Dancer<br /> Daniospinajc@gmail.com
+        <h1>
+          Daniel <br /> Ospina
+        </h1>
+        <h2>
+          Model & Dancer
+          <br /> Daniospinajc@gmail.com
         </h2>
       </header>
 
       <figure>
         <img alt="" src={images[currentImage]} onClick={handelClick} />
-        <figcaption> 
-          {currentImage + 1} / {images.length} 
-          </figcaption>
+        <figcaption>
+          {currentImage + 1} / {images.length}
+        </figcaption>
       </figure>
     </section>
   )
