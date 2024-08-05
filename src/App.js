@@ -32,6 +32,9 @@ const App = () => {
           Model & Dancer
           <br /> Daniospinajc@gmail.com
         </h2>
+        <h3>
+          Made by <a href="https://www.jinyuli.cc/"> Jinyu Li</a>
+        </h3>
       </header>
 
       <figure>

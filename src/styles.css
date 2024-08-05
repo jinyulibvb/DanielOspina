@@ -28,8 +28,39 @@ h2 {
   position: fixed;
   font-size: 24px;
   line-height: 1.2;
-  margin: 0 20px 20px 20px;
+  margin: 0 20px 80px 20px;
   font-weight: 500;
+}
+
+h3 {
+  bottom: 0;
+  position: absolute;
+  text-align: center;
+  font-size: 16px;
+  line-height: 1.2;
+  width: 100%;
+  font-weight: 400;
+  opacity: 80%;
+}
+
+a {
+  text-decoration: none;
+  box-shadow: inset 0 0 0 0 #294910;
+  color: #294910;
+  margin: 0 -0.15rem;
+  padding: 0 0.25rem;
+  transition:
+    color 0.3s ease-in-out,
+    box-shadow 0.3s ease-in-out;
+}
+a:hover {
+  box-shadow: inset 100px 0 0 0 #294910;
+  color: white;
+}
+
+header {
+  width: 50vw;
+  position: relative;
 }
 
 figure {
@@ -80,5 +111,12 @@ img {
 
   h1 {
     font-size: 80px;
+  }
+
+  h3 {
+    font-size: 14px;
+    position: relative;
+    margin: 0 20px 20px;
+    text-align: left;
   }
 }
