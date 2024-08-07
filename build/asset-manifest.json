@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DanielOspina/static/css/main.018224b7.css",
+    "main.js": "/DanielOspina/static/js/main.7bf82379.js",
+    "static/js/453.372e5d62.chunk.js": "/DanielOspina/static/js/453.372e5d62.chunk.js",
+    "static/media/bed.jpeg": "/DanielOspina/static/media/bed.43f2f548e913cb59f357.jpeg",
+    "static/media/black.jpeg": "/DanielOspina/static/media/black.74001a3bf6c869c102a5.jpeg",
+    "static/media/purple.jpeg": "/DanielOspina/static/media/purple.dee8845b789695bae2c4.jpeg",
+    "static/media/picnic.jpeg": "/DanielOspina/static/media/picnic.0f0905c90eeb080b8b20.jpeg",
+    "static/media/window.jpeg": "/DanielOspina/static/media/window.3c3a9f4d735575dd7f65.jpeg",
+    "static/media/nude.jpeg": "/DanielOspina/static/media/nude.0a238f3cc892b72475e9.jpeg",
+    "index.html": "/DanielOspina/index.html",
+    "main.018224b7.css.map": "/DanielOspina/static/css/main.018224b7.css.map",
+    "main.7bf82379.js.map": "/DanielOspina/static/js/main.7bf82379.js.map",
+    "453.372e5d62.chunk.js.map": "/DanielOspina/static/js/453.372e5d62.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.018224b7.css",
+    "static/js/main.7bf82379.js"
+  ]
+}
