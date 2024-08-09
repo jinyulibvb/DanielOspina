@@ -8,7 +8,7 @@ import window from './assets/window.jpeg'
 import picnic from './assets/picnic.jpeg'
 import purple from './assets/purple.jpeg'
 
-const images = [bed, nude, picnic, purple, black, window]
+const images = [nude, picnic, purple, bed, black, window]
 
 const App = () => {
   const [currentImage, setCurrentImage] = useState(0)
