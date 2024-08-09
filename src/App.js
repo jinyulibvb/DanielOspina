@@ -26,7 +26,7 @@ const App = () => {
     <section>
       <header>
         <h1>
-          Daniel <br /> Ospina
+          Daniel Ospina
         </h1>
         <h2>
           Model & Dancer
