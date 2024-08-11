@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DanielOspina/static/css/main.6ef37247.css",
-    "main.js": "/DanielOspina/static/js/main.3aac4e28.js",
+    "main.css": "/DanielOspina/static/css/main.f33261cc.css",
+    "main.js": "/DanielOspina/static/js/main.b66bfdc2.js",
     "static/js/453.372e5d62.chunk.js": "/DanielOspina/static/js/453.372e5d62.chunk.js",
     "static/media/bed.jpeg": "/DanielOspina/static/media/bed.43f2f548e913cb59f357.jpeg",
     "static/media/purple.jpeg": "/DanielOspina/static/media/purple.dee8845b789695bae2c4.jpeg",
@@ -10,12 +10,12 @@
     "static/media/window.jpeg": "/DanielOspina/static/media/window.3c3a9f4d735575dd7f65.jpeg",
     "static/media/nude.jpeg": "/DanielOspina/static/media/nude.0a238f3cc892b72475e9.jpeg",
     "index.html": "/DanielOspina/index.html",
-    "main.6ef37247.css.map": "/DanielOspina/static/css/main.6ef37247.css.map",
-    "main.3aac4e28.js.map": "/DanielOspina/static/js/main.3aac4e28.js.map",
+    "main.f33261cc.css.map": "/DanielOspina/static/css/main.f33261cc.css.map",
+    "main.b66bfdc2.js.map": "/DanielOspina/static/js/main.b66bfdc2.js.map",
     "453.372e5d62.chunk.js.map": "/DanielOspina/static/js/453.372e5d62.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ef37247.css",
-    "static/js/main.3aac4e28.js"
+    "static/css/main.f33261cc.css",
+    "static/js/main.b66bfdc2.js"
   ]
 }
