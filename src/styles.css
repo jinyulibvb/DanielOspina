@@ -99,16 +99,15 @@ img {
   figure {
     flex-grow: 1;
     width: 100vw;
+    height: 100vh;
   }
 
-  figcaption {
-    font-size: 30px;
-  }
 
   h2 {
     font-size: 16px;
     position: relative;
-    margin: 40px 20px 20px;
+    margin: 32px 20px 20px;
+    font-weight: 300;
   }
 
   h3 {
@@ -120,7 +119,8 @@ img {
   }
 
   figcaption {
-    font-size: 24px;
-    padding: 60px 0;
+    position: relative;
+    padding: 10px 0;
+    font-size: 16px;
   }
 }
